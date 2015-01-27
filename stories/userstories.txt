@@ -1,0 +1,23 @@
+1. An anonymous User will expect to be able to...
+    1.1 Add new timer
+        1.1.1 Creating multiple timers
+    1.2 Modify timers
+    1.3 Delete timers
+    1.4 save created timers
+    1.5 personalization of background behind the timer themselves
+    1.6 personalization to the background color of the timer title
+    1.7 Create a profile via FaceBook Login
+    1.8 Upload timer via external link to FaceBook
+    1.9 Personalization to the 'skin' of the timer
+    2.0 View page code
+2. A logged in User will expect to be able to...
+    2.1 Add new timer
+        2.1.1 Create multiple timers
+    2.2 Modify timer
+    2.3 Delete timer
+    2.4 Publishing of an anonymous timer - to an anonymous lists
+        2.4.1 Ability to view other publish anonymous timers
+    2.5 Personalization of background behind timer
+    2.6 Personalization of background behind timer name
+    2.7 log in anonymously
+    2.8 View page code

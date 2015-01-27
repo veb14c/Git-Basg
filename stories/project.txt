@@ -1,0 +1,3 @@
+My idea for this semester is to create an interactive webpage, that allows two types of users to create timers that countdown to a specified date.
+It would so this by subtracting the date entered in by the user from the current date, displaying the difference in days, hours, minutes, and seconds.
+This web application will incorporate three types of users; administrator, anonymous user, and logged in user. 
